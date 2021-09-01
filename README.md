@@ -17,4 +17,5 @@ Press [Start Game button](url) to make them move.
 **Support:** For any issues please ping me at: tatiana.bonnefoi@gmail.com
 
 **Roadmap:** Potencially we will add different colors or sizes. 
-**License information:** MIT-XPro Certificate
+
+**License information:** MIT-XPro Certificate.
